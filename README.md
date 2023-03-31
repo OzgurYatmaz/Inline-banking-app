@@ -1,4 +1,6 @@
-# Inline-banking-app
+ 
+A demo project made by spring mvc + spring security for simulating inline banking operations...
+
 <p align="center">
   <img src="sample-banking-app/Documents/login%20logout%20page.jpg" width="350" alt="accessibility text">
   <img src="sample-banking-app/Documents/Home%20Page.jpg" width="350" alt="accessibility text">
