@@ -12,12 +12,12 @@
 			</fieldset>
 			<fieldset class="mb-3">
 				<form:label path="receiverId">Receiver Id</form:label>
-				<form:input type="number" path="receiverId" required="required" />
+				<form:input type="number" path="receiverId" required="required" readonly="true"/>
 				<form:errors path="receiverId" cssClass="text-warning" />
 			</fieldset>
 			<fieldset class="mb-3">
 				<form:label path="senderId">Sender Id</form:label>
-				<form:input type="number" path="senderId" required="required" />
+				<form:input type="number" path="senderId" required="required" readonly="true" />
 				<form:errors path="senderId" cssClass="text-warning" />
 			</fieldset>
 			
